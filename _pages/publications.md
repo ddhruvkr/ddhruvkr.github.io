@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Dhruv Kumar - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Dhruv Kumar -- Publications."
 sitemap: false
 permalink: /publications/
 ---
