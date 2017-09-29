@@ -8,6 +8,9 @@ img { margin-bottom: 24px;
     border-radius:2%;
 }
 
+.img-circle {
+    border-radius: 50%;
+}
 
 body {
 	padding-top: 70px;
@@ -19,7 +22,33 @@ figcaption {
     margin-bottom: 20px;
 }
 
+.socialicon {
+	padding: 7px;
+	max-width: 45px;
+	max-height: 45px;
+}
 
+@media (max-width:768px) {
+.socialicon {
+	padding: 4px;
+	max-width: 30px;
+	max-height: 30px;
+}
+}
+.social-fade {
+	opacity: .2;
+	transition: opacity .2s ease-in-out;
+	-moz-transition: opacity .2s ease-in-out;
+	-webkit-transition: opacity .2s ease-in-out;
+}
+.social-fade:hover {
+	opacity: 1;
+}
+.social-fade:active {
+	opacity: 1;
+	position: relative;
+	top: 2px;
+}
 
 /* Top navigation bar */
 

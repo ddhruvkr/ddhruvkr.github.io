@@ -1,17 +1,17 @@
 ---
-title: "Dhruv Kumar - Publications"
+title: "Dhruv Kumar - Projects"
 layout: gridlay
-excerpt: "Dhruv Kumar -- Publications."
+excerpt: "Dhruv Kumar -- Projects."
 sitemap: false
-permalink: /publications/
+permalink: /projects/
 ---
 
 
-# Publications
+# Projects
 
-## Highlights
+<!--## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))-->
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -26,7 +26,7 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <!--<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />-->
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
@@ -52,12 +52,12 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
+<!--## Full List
 
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
-{% endfor %}
+{% endfor %}-->
 
