@@ -3,12 +3,10 @@ title: "Home"
 layout: textlay
 excerpt: "Dhruv Kumar"
 sitemap: false
-permalink: /allnews.html
+permalink: /articles.html
 ---
 
-# News
-
+# Things of interest
 {% for article in site.data.news %}
-<p>{{ article.date }} <br>
-<em>{{ article.headline }}</em></p>
+<em>{{ article.headline }}</em>
 {% endfor %}

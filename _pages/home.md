@@ -6,9 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-I am a Software Engineer, working at [Arcesium](http://www.arcesium.com/) (The D.E. Shaw Group).
-I have majored in Information Technology from Indian Institute of Information Technology, Allahabad. My research interests are in Machine Learning, Predictive Modelling, Recommender Systems, and Artificial Intelligence.
-In the past, I worked as a in University of Paderborn, looking into ways in how metadata could be added to state of the art models factorization models (Factorization Machines, Joint Matrix Factorization) to improve their performance.
+<p>I am a Software Engineer, working at [Arcesium](http://www.arcesium.com/) (The D.E. Shaw Group).
+In my undergrad, I have majored in Information Technology from Indian Institute of Information Technology, Allahabad. My research interests are in Machine Learning, Predictive Modelling, Recommender Systems, and Artificial Intelligence.</p>
+<p>I wrote my Bachelor Thesis, while working work as a Research Intern, in University of Paderborn, Germany, looking into ways in how metadata could be added to state of the art models factorization models (Factorization Machines, Joint Matrix Factorization) to improve their performance.</p>
+<p>Apart from Arcesium, I've had another industrial work experience in Citi, where I interned as a full stack engineer working on MEAN stack. I also built cool visualization using d3.js.</p>
+<p>In the recent months, I have become interested into Deep Learning and Reinforcement Learning. In Deep Learning, I studied the applications of sequence models. In Reinforcement Learning, I am currently working on combining Deep Learning with Q-Learning to learn various OpenAI environments.</p>
  
 
 <!--<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

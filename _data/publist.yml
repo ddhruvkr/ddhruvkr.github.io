@@ -82,17 +82,13 @@
 - title: Analysis of Time Aware and Semantic Feature Based Music Recommender System
   image: 
   description: This project was aimed at developing a recommender system, to incorporate semantic data as a side information for getting more accurate results.
-                Introduced a comprehensive framework that is able to leverage the additional source of
-                information in order to boost the accuracy of the existing systems.
                 Proposed a modified Joint Matrix Factorization approach to incorporate information related to
                 items and implicit user 's item preference to enhance the accuracy of the system.
                 The model is based on time variant Recommender System, thus also utilises the time-related
                 information of items. Experimental results show that this method gets approximately 0.60%
                 more accurate recommendation results with faster converging speed than other existing
                 approaches based on matrix factorization.
-                This project has been published with springer under the title "Inclusion of Semantic and
-                Time-Variant Information Using Matrix Factorization Approach for Implicit Rating of Last.Fm
-                Dataset
+          
   authors:
     OP Vyas, Nidhi, Dhruv, Ronish, Shubham
   link:
