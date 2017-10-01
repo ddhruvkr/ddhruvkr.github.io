@@ -12,7 +12,7 @@
 
 
 
-- title: "Time Series Forcasting using LSTM"
+- title: "Time Series Forecasting using LSTM"
   image: 
   description: "Used the google stock prices of 5 years to learn from multiple variables and then predict the stock price given the data of last 20 days."
   authors: Dhruv Kumar
