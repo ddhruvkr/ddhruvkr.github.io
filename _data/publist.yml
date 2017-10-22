@@ -58,6 +58,7 @@
   image: 
   description:
     Built a face recognition web application on Flask and openCV for pmOne Analytics GmbH. The project's goal was to identify faces from a video, given a person’s image. Since, we partnered Microsoft in this project, we used their Project Oxford API to train the model. The project was done as part of a tender bid towards a project by the German Government, aimed at identifying the people behind the Sexual Assault incident in Cologne on the new year’s eve of 2015/2016.
+    Also used celery with RabbitMQ to make the application asynchronous.
   authors:
     Artus, Boris, Dhruv
   link:
@@ -96,6 +97,18 @@
     display: Code
   highlight: 1
   news1: <a style="color:#FF0000; text-decoration:underline" href="https://link.springer.com/article/10.1007/s13369-016-2209-0">Publication Link</a> 
+  news2:
+
+- title: Trading Controls
+  image: 
+  description:
+    Built this as part of my summer internship at Citi after my 3rd year. It was majorly a web application used for data visualization and a CRUD. Used MEAN stack and worked on d3.js for visualization. Build customization d3 modules wrapped in Angular directives.
+  authors:
+    Artus, Boris, Dhruv
+  link:
+    url: 
+    display: 
+  highlight: 1
   news2:
 
 - title: Information Extraction and Opinion Analysis on E Commerce Websites
