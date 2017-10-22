@@ -104,7 +104,7 @@
   description:
     Built this as part of my summer internship at Citi after my 3rd year. It was majorly a web application used for data visualization and a CRUD. Used MEAN stack and worked on d3.js for visualization. Build customization d3 modules wrapped in Angular directives.
   authors:
-    Artus, Boris, Dhruv
+    Dhruv
   link:
     url: 
     display: 
