@@ -97,7 +97,7 @@
     display: Code
   highlight: 1
   news1: <a style="color:#FF0000; text-decoration:underline" href="https://link.springer.com/article/10.1007/s13369-016-2209-0">Publication Link</a> 
-  news2:
+  news2: <a href="./Semantic-JMF.pdf">PDF</a>
 
 - title: Trading Controls
   image: 
