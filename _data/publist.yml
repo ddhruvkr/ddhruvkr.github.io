@@ -158,13 +158,9 @@ Although I haven't fully optimized the hyper-parameters for now."
 
 - title: Faculty Feedback Form
   image: 
-  description: Feed of never-ending featured articles from Wikipedia. Ideal for killing time. Made it in 2015.
-
-Inspired by https://github.com/hackerkid/Wikifeedia. The difference though is that Wikifeedia gives random featured articles starting from the same alphabet(which is random too) whereas this gives random articles with no constraints whatsoever. Some of the code is borrowed from it. I had to change the underlying API and the way it was being utilized.
-
-Will soon update more details about the implementation.
+  description: This project aims to develop an anonymous faculty feedback form through which all the students would login using their college login ID and password and give their opinion about a particular teacher teaching a particular subject. The results for each teacher would be compiled and displayed when the teacher logs in using a bar graph. The teachers will also have the privilege to compare their results over the years.
   authors:
-     Dhruv
+     Dhruv, Ronish, Shubham
   highlight: 1    
   link:
     url: https://github.com/ddhruvkr/Feedback-Portal
@@ -172,9 +168,13 @@ Will soon update more details about the implementation.
 
 - title: Wiki Unlimited
   image: 
-  description: This project aims to develop an anonymous faculty feedback form through which all the students would login using their college login ID and password and give their opinion about a particular teacher teaching a particular subject. The results for each teacher would be compiled and displayed when the teacher logs in using a bar graph. The teachers will also have the privilege to compare their results over the years.
+  description: Feed of never-ending featured articles from Wikipedia. Ideal for killing time. Developed it in 2015.
+
+Inspired by https://github.com/hackerkid/Wikifeedia. The difference though is that Wikifeedia gives random featured articles starting from the same alphabet(which is random too) whereas this gives random articles with no constraints whatsoever. Some of the code is borrowed from it. I had to change the underlying API and the way it was being utilized.
+
+Will soon update more details about the implementation.
   authors:
-     Dhruv, Ronish, Shubham
+     Dhruv
   highlight: 1    
   link:
     url: https://github.com/ddhruvkr/WikiUnlimited
