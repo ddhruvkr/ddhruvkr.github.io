@@ -165,3 +165,14 @@ Although I haven't fully optimized the hyper-parameters for now."
   link:
     url: https://github.com/ddhruvkr/Feedback-Portal
     display: Code
+
+- title: News Android Application
+  image: 
+  description: A News Reading Android application built in 2013(before the new apps were cool). The aim was to build a better foundation in Android Development. Hits a Zee News API, crawls and fetches data in XML and displays the news sorted by time. Also has feature to search news through specific tags.
+  authors:
+    Dhruv
+  link:
+    url: https://github.com/ddhruvkr/NewsParser
+    display: Code 
+  highlight: 1
+  
