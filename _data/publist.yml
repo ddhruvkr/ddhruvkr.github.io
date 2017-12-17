@@ -1,7 +1,7 @@
-- title: Atari Pong using Deep Q-learning (Ongoing)
+- title: Atari Pong using Reinforcement Learning (Ongoing)
   image: 
   description:
-    In this ongoing projecting, I am expanding my knowledge to apply deep Q-learning to learn a more complex game environment in OpenAI's Gym library.
+    In this ongoing project, I am expanding my knowledge to apply Policy Gradient and Neural Networks to learn a more complex game environment in OpenAI's Gym library.
   authors:
     Dhruv Kumar
   link:
@@ -12,9 +12,14 @@
 
 
 
-- title: "Time Series Forecasting using LSTM"
+- title: "Time Series Forecasting using Deep Learning"
   image: 
-  description: "Used the google stock prices of 5 years to learn from multiple variables and then predict the stock price given the data of last 20 days."
+  description: "It predicts a google stock opening price given the data for the last 20 days. Trained the model on multiple variables in the data from the last 5 years. 
+I have used LSTM, on Tensorflow with Keras on top.
+I will hopefully improve this by adding sentiment knowledge to it, by using headlines of the stock for each day. 
+It should not be much of an extension, since after getting the sentiment score from the headline about the stock, we can basically just add it as a new column to our matrix and our model learns it as a new feature.
+
+Although I haven't fully optimized the hyper-parameters for now."
   authors: Dhruv Kumar
   link:
     url: https://github.com/ddhruvkr/TimeSeriesPrediction
@@ -35,7 +40,7 @@
 - title: Tic Tac Toe bot using RL
   image: 
   description:
-     Built a tic tac toe learning bot using Reinforcement Learning. This acted as a starting point for me into Reinforcement Learning. 
+     Built a tic-tac-toe learning bot using Reinforcement Learning. This acted as a starting point for me into Reinforcement Learning. 
   authors:
     Dhruv Kumar
   link:
@@ -43,10 +48,11 @@
     display: Code
   highlight: 1
   
-- title: Text generation using RNNs
+- title: Learning the writing style
   image: 
   description:
-    Implemented a Recurrent Neural Network from scratch to learn about sequence networks, doing a character level generation of text, thus mimicing the language of a novel. 
+    Implemented a deep Recurrent Neural Network from scratch to learn about sequence networks, doing a character level generation of text.
+    Ran the model on my Bachelor's Thesis to learn my writing style. The model was quickly able to learn the grammar rules and important technical terminologies from my thesis. 
   authors:
     Dhruv Kumar
   link:
@@ -107,7 +113,7 @@
 - title: Trading Controls
   image: 
   description:
-    Built this as part of my summer internship at Citi after my 3rd year. It was majorly a web application used for data visualization and a CRUD. Used MEAN stack and worked on d3.js for visualization. Build customization d3 modules wrapped in Angular directives.
+    Built this as part of my summer internship at Citi after my 3rd year. It was majorly a web application used for data visualization and a CRUD. Used MEAN stack and worked on d3.js for visualization. Build customization d3 modules wrapped in Angular directives. Was given a full time job offer after my internship.
   authors:
     Dhruv
   link:
