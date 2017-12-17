@@ -70,7 +70,12 @@
 - title: Compressed Knowledge transfer via Factorization Models in Recommender Systems
   image: 
   description:
-     This was my Bachelor Thesis, where I continued my previous project on Recommender Systems. I looked at ways to add information from metadata to improve the performance of FMs. The improvement was much better as compared to factorization models like Collective Matrix Factorization, which I used as a baseline.
+     This was my Bachelor Thesis, where I continued my previous project on Recommender Systems. 
+     I looked at ways to incorporate knowledge from metadata to improve the performance of Factorization Machines.
+     Initially using the MovieLens 1M, I extracted the genre information from the summaries of movies and cast information by
+     parsing the IMDB. Then, I designed a personalized model to utilize this information. 
+     We were able to more than double the performance achieved with tradition matrix factorization approaches like Collective Matrix Factorization,
+     which I used as a baseline. We have been able to validate the approach with bigger datasets and will soon publish it.
   authors:
     Artus, Dhruv
   link:
