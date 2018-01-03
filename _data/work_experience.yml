@@ -1,18 +1,17 @@
 - name: Arcesium
   info: Software Engineer, July 2016 - Present
-  number_educ: 3
-  education1: Worked in the Fund Accounting Dev Team
-  education2: Worked on onboarding JP Morgan onto our platform
-  education3: Technologies used - Java, Sql, Javascript, Svn
-  
+  number_educ: 2
+  education1: Working in the Fund Accounting Development Team
+  education2: Part of a team to onboard JP Morgan onto our platform
+
 - name: University of Paderborn, Germany
   info: Research Intern (AIS-BI Lab), Jan 2016 - Jun 2016
   number_educ: 2
   education1: Bachelor Thesis, on Recommender Systems
   education2: Face Recognition in videos
-  
-- name: Citi
-  info: Application Developer Intern, May 2015 - Jul 2015
+
+- name: Citigroup
+  info: Software Engineering Intern, May 2015 - Jul 2015
   number_educ: 2
-  education1: Full Stack Developer, 
-  education2: Trading Control web app on MEAN stack
+  education1: Pre Trade Risk Analysis(Trading Control) web application on MEAN stack
+  education2: Explored visualization techniques
