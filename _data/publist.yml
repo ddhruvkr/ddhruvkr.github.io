@@ -1,28 +1,32 @@
-- title: Atari Pong using Reinforcement Learning (Ongoing)
+- title: "Text classification using Deep Learning"
   image: 
-  description:
-    In this ongoing project, I am expanding my knowledge to apply Policy Gradient and Neural Networks to learn a more complex game environment in OpenAI's Gym library.
-  authors:
-    Dhruv Kumar
-  link:
-    url: 
-    display: 
-  highlight: 1
-  news2: See also <a href="http://karpathy.github.io/2016/05/31/rl/"> Learning Pong </a> by Andrej Karpathy
-
-
-
-- title: "Time Series Forecasting using Deep Learning"
-  image: 
-  description: "It predicts a google stock opening price given the data for the last 20 days. Trained the model on multiple variables in the data from the last 5 years. 
-I have used LSTM, on Tensorflow with Keras on top.
-I will hopefully improve this by adding sentiment knowledge to it, by using headlines of the stock for each day. 
-It should not be much of an extension, since after getting the sentiment score from the headline about the stock, we can basically just add it as a new column to our matrix and our model learns it as a new feature.
-
-Although I haven't fully optimized the hyper-parameters for now."
+  description: "Used deep learning methods including multiple attention models for text classification implemented in Pytorch. The models are inspired not just by the state-of-the-art in classification but also by different tasks in NLP such as text entailment, Question Answering, etc."
   authors: Dhruv Kumar
   link:
-    url: https://github.com/ddhruvkr/TimeSeriesPrediction
+    url: https://github.com/ddhruvkr/Deep-Learning-Text-Classification
+    display:  Code
+  highlight: 1
+  news2: 
+
+- title: "Bi-Directional Attention Flow for Question Answering"
+  image: 
+  description: "Implemented the Bi-Directional Attention Flow(BiDAF) model from scratch in Tensorflow over the SQuAD1.1 dataset as part of the course project for the Deep Learning class.
+  This was done as a course project for the course STAT-946 on Deep Learning."
+  authors: Amir Pasha, Dhruv, Gaurav, Kashif
+  link:
+    url: https://github.com/Demfier/QA
+    display:  Code
+  highlight: 1
+  news2: 
+
+
+- title: "Transfer Learning for Image Classification"
+  image: 
+  description: "Trained a ResNet50 and VGG16 models using Transfer Learning on Cifar100 to obtain an accuracy of 78.53%.
+  This was done for the data challenge which was conducted as part of the course STAT-946 on Deep Learning."
+  authors: Dhruv Kumar
+  link:
+    url: https://github.com/ddhruvkr/KaggleSubmissions/tree/master/Stat946
     display:  Code
   highlight: 1
   news2: 
@@ -60,6 +64,20 @@ Although I haven't fully optimized the hyper-parameters for now."
     display: Code
   highlight: 1
 
+- title: "Time Series Forecasting using Deep Learning"
+  image: 
+  description: "It predicts a google stock opening price given the data for the last 20 days. Trained the model on multiple variables in the data from the last 5 years using a LSTM.
+Will improve this by adding sentiment knowledge to it, by using headlines of the stock for each day. 
+It should not be much of an extension, since after getting the sentiment score from the headline about the stock, we can basically just add it as a new column to our matrix and our model learns it as a new feature.
+
+Although I haven't fully optimized the hyper-parameters for now."
+  authors: Dhruv Kumar
+  link:
+    url: https://github.com/ddhruvkr/TimeSeriesPrediction
+    display:  Code
+  highlight: 1
+  news2: 
+
 - title: Face Recognition in Videos
   image: 
   description:
@@ -85,8 +103,8 @@ Although I haven't fully optimized the hyper-parameters for now."
   authors:
     Artus, Dhruv
   link:
-    url: 
-    display: 
+    url: https://github.com/ddhruvkr/Factorization-Machine
+    display: Code
   highlight: 1
   news1:
   news2: 
