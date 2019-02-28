@@ -1,15 +1,15 @@
 - name: Sirius Blockchain Research Group
-  info: Research Assistant, Sept 2018 - Present
-  number_educ: 1
-  education1: Working on creating an efficient Data Analytics layer on top of Hyperledger Fabric.
+  info: Research Assistant, Jan 2019 - Present
+  #number_educ: 1
+  #education1: Working on creating an efficient Data Management layer on top of HyperledgerFabric to enable it to handle more complex use-cases like consent management in Healthcare than simply cryptocurrencies.
 
 - name: Data Science Lab
   info: Research Assistant, Sept 2018 - Present
-  number_educ: 1
-  education1: Working on applying Natural Language Methods to classify toxic and abusive speech in online social networks.
+  #number_educ: 1
+  #education1: Working on applying Natural Language Methods to classify toxic and abusive speech in online social networks.
 
 - name: University of Paderborn, Germany
   info: Research Intern (AIS-BI Lab), Jan 2016 - Jun 2016
-  number_educ: 2
-  education1: Bachelor Thesis, on Recommender Systems
-  education2: Face Recognition in videos
+  #number_educ: 2
+  #education1: Bachelor Thesis, on Recommender Systems
+  #education2: Face Recognition in videos

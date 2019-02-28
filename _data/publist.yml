@@ -1,3 +1,36 @@
+- title: "Blockchains for Consent Management System (Ongoing)"
+  image: 
+  description: "As part of the course project working on creating an efficient Data Management layer on top of Hyperledger
+Fabric to enable it to handle more complex use-cases like consent management in Healthcare than simply
+cryptocurrencies"
+  authors: Rishav, Dhruv Kumar
+  link:
+    url: 
+    display: 
+  highlight: 1
+  news2: 
+
+- title: "Detecting toxicity in Online Social Networks (Ongoing)"
+  image: 
+  description: "Using Natural Language Processing (NLP) to measure toxicity, aggressiveness and incivility in online social
+networks"
+  authors: Dhruv Kumar
+  link:
+    url: https://github.com/ddhruvkr/Detecting-Hate-Speech
+    display:  Code
+  highlight: 1
+  news2:
+
+- title: "Visual Question Answering (Ongoing)"
+  image: 
+  description: "Working with the VQA v2.0 dataset. The work till now has been to understand the components of the currentstate-of-the-art methods. Moving forward we first try to reproduce the results of a selected model and furtherbuilding on it to get improvements."
+  authors: Amir Pasha, Dhruv Kumar
+  link:
+    url: https://visualqa.org/
+    display:  Code
+  highlight: 1
+  news2: 
+
 - title: "Text classification using Deep Learning"
   image: 
   description: "Used deep learning methods including multiple attention models for text classification implemented in Pytorch. The models are inspired not just by the state-of-the-art in classification but also by different tasks in NLP such as text entailment, Question Answering, etc."
@@ -14,7 +47,7 @@
   This was done as a course project for the course STAT-946 on Deep Learning."
   authors: Amir Pasha, Dhruv, Gaurav, Kashif
   link:
-    url: https://github.com/Demfier/QA
+    url: https://github.com/pashapanther/BiDAF
     display:  Code
   highlight: 1
   news2: 
