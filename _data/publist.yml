@@ -1,3 +1,13 @@
+- title: "Text Simplification (Ongoing)"
+  image: 
+  description: "Looking at Deep Learning methods for text simplification with a focus on unsupervised techniques. The work till now includes developing the seq2seq based model baselines."
+  authors: Dhruv Kumar
+  link:
+    url: 
+    display: 
+  highlight: 1
+  news2: 
+
 - title: "Blockchains for Consent Management System (Ongoing)"
   image: 
   description: "As part of the course project working on creating an efficient Data Management layer on top of Hyperledger
@@ -10,26 +20,16 @@ cryptocurrencies"
   highlight: 1
   news2: 
 
-- title: "Detecting toxicity in Online Social Networks (Ongoing)"
+- title: "Online abuse detection: the value of preprocessing and neural attention models"
   image: 
   description: "Using Natural Language Processing (NLP) to measure toxicity, aggressiveness and incivility in online social
-networks"
+networks. Accepted as a workshop paper (WASSA) at NAACL-HLT, 2019."
   authors: Dhruv Kumar
   link:
-    url: https://github.com/ddhruvkr/Detecting-Hate-Speech
+    url: https://github.com/ddhruvkr/Online_Abuse_Detection
     display:  Code
   highlight: 1
   news2:
-
-- title: "Visual Question Answering (Ongoing)"
-  image: 
-  description: "Working with the VQA v2.0 dataset. The work till now has been to understand the components of the currentstate-of-the-art methods. Moving forward we first try to reproduce the results of a selected model and furtherbuilding on it to get improvements."
-  authors: Amir Pasha, Dhruv Kumar
-  link:
-    url: https://visualqa.org/
-    display:  Code
-  highlight: 1
-  news2: 
 
 - title: "Text classification using Deep Learning"
   image: 
