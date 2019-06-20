@@ -29,6 +29,7 @@ networks. Accepted as a workshop paper (WASSA) at NAACL-HLT, 2019."
     url: https://github.com/ddhruvkr/Online_Abuse_Detection
     display:  Code
   highlight: 1
+  news1: <a href="https://www.aclweb.org/anthology/W19-1303">Publication Link</a> 
   news2:
 
 - title: "Text classification using Deep Learning"
