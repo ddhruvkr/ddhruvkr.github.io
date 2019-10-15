@@ -1,22 +1,40 @@
 - title: "Text Simplification (Ongoing)"
   image: 
-  description: "Looking at Deep Learning methods for text simplification with a focus on unsupervised techniques. The work till now includes developing the seq2seq based model baselines."
-  authors: Dhruv Kumar
+  description: "The main goal of sentence simplification is rewriting text such that it becomes easier to read, while still retaining its original information and meaning.
+  Current deep learning models are black-box models which focus on simplifying text while maintaining fluency. However, they do this at the expense of meaning preservation.
+  Also, they are black-box models which means we do not know clearly what properties of the text need to be modified to do better simplifications.
+  We are looking at models which can be controlled, use as less training data as possible and give insight into the simplification process."
+  authors: Dhruv
   link:
     url: 
     display: 
   highlight: 1
   news2: 
 
-- title: "Blockchains for Consent Management System (Ongoing)"
+- title: "Lyrics Generation from Songs (Ongoing)"
   image: 
-  description: "As part of the course project working on creating an efficient Data Management layer on top of Hyperledger
-Fabric to enable it to handle more complex use-cases like consent management in Healthcare than simply
-cryptocurrencies"
-  authors: Rishav, Dhruv Kumar
+  description: "Recently text generation models have been used to generate poetry, movie scripts, etc. We look at the task of generating lyrics for songs of different genres in a controllable manner.
+  We use mel-spectrograms to represent songs and use it to condition the generation of lyrics."
+  authors: Gaurav, Dhruv
   link:
     url: 
     display: 
+  highlight: 1
+  news2: 
+
+
+- title: "Consentio: Managing Consent to Data Access using Permissioned Blockchains"
+  image: 
+  description: "The increasing amount of personal data is raising serious issues in the context of privacy, security, and data ownership. 
+Entities whose data are being collected can benefit from mechanisms to manage the parties that can access their data and to audit who has accessed their data. 
+Consent management systems address these issues.
+Consentio is a scalable consent management system based on the Hyperledger Fabric permissioned blockchain. 
+The data management challenge we address is to ensure high throughput and low latency of endorsing data access requests and granting or revoking consent. 
+Experimental results show that our system can handle as many as 6,000 access requests/s, allowing it to scale to very large deployments."
+  authors: Rishav, Dhruv
+  link:
+    url: https://github.com/ddhruvkr/Consentio
+    display:  Code
   highlight: 1
   news2: 
 
