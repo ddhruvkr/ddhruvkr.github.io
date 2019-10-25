@@ -36,6 +36,7 @@ Experimental results show that our system can handle as many as 6,000 access req
     url: https://github.com/ddhruvkr/Consentio
     display:  Code
   highlight: 1
+  news1: <a href="https://arxiv.org/abs/1910.07110">Publication Link</a>
   news2: 
 
 - title: "Online abuse detection: the value of preprocessing and neural attention models"
