@@ -1,4 +1,4 @@
-- title: "Text Simplification (Ongoing)"
+- title: "Text Simplification"
   image: 
   description: "The main goal of sentence simplification is rewriting text such that it becomes easier to read, while still retaining its original information and meaning.
   Current deep learning models are black-box models which focus on simplifying text while maintaining fluency. However, they do this at the expense of meaning preservation.
