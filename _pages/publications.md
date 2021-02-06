@@ -13,4 +13,5 @@ permalink: /publications.html
 <em>{{ pub.page }}</em>
 {% endfor %}
 
-
+<p>* represents equal contribution</p>
+<p>Publications can also be found on [Google Scholar](https://scholar.google.ca/citations?user=IiMW328AAAAJ&hl=en&oi=ao)</p>
