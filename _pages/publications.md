@@ -6,9 +6,11 @@ sitemap: false
 permalink: /publications.html
 ---
 
-# Publications at Refereed Venues
-{% for article in site.data.publications %}
-<em>{{ article.headline }}</em>
+{% assign publications = site.data.publications %}
+{% for pub in publications %}
+<h1>{{ pub.display_year }}</h1>
+<em>{{ pub.headline }}</em>
+<em>{{ pub.page }}</em>
 {% endfor %}
-<p>* represents equal contribution</p>
-<p>Publications can also be found on [Google Scholar](https://scholar.google.ca/citations?user=IiMW328AAAAJ&hl=en&oi=ao)</p>
+
+
