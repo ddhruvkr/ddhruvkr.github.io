@@ -1,20 +1,23 @@
 - display_year: "2021"
-- headline: "S. Gehrmann et al., The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics, ArXiv 2021. 
-[<a href='https://arxiv.org/pdf/2102.01672.pdf'>PDF</a>, 
+- headline: "P. Xu, <b>D. Kumar</b>, W. Yang, W. Zi, K. Tang, C. Huang, J.C.K. Cheung, S.J.D. Prince, Y. Cao, Optimizing Deeper Transformers on Small Datasets, Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021) - Long Paper"
+- year: "2021"
+
+- headline: "S. Gehrmann et al., The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics, ArXiv 2021.
+[<a href='https://arxiv.org/pdf/2102.01672.pdf'>PDF</a>,
 <a href='https://gem-benchmark.com/'>ACL 2021 Workshop Page</a>]"
 - year: "2021"
 
 - display_year: "2020"
-- headline: "O. Vechtomova, G. Sahu, <b>D. Kumar</b>, Generation of lyrics lines conditioned on music audio clips, 
+- headline: "O. Vechtomova, G. Sahu, <b>D. Kumar</b>, Generation of lyrics lines conditioned on music audio clips,
 In First Workshop on NLP for Music and Audio (NLP4MusA) at ISMIR 2020.
-[<a href='https://www.aclweb.org/anthology/2020.nlp4musa-1.7.pdf'>PDF</a>, 
-<a href='https://sites.google.com/view/nlp4musa-submission/home'>Demos</a>, 
+[<a href='https://www.aclweb.org/anthology/2020.nlp4musa-1.7.pdf'>PDF</a>,
+<a href='https://sites.google.com/view/nlp4musa-submission/home'>Demos</a>,
 <a href='https://www.youtube.com/watch?v=7qV6lXaFY_g&feature=youtu.be'>Pre-recorded talk</a>]"
 - year: "2020"
 
 - headline: "<b>D. Kumar</b>, L. Mou, L. Golab, O. Vechtomova, Iterative edit-based unsupervised sentence simplification, In Proceedings of the 58th annual meeting of the Association for Computational Linguistics (ACL 2020), Long Paper (25.4% acceptance rate).
-[<a href='https://www.aclweb.org/anthology/2020.acl-main.707/'>PDF</a>, 
-<a href='https://github.com/ddhruvkr/Edit-Unsup-TS'>Code</a>, 
+[<a href='https://www.aclweb.org/anthology/2020.acl-main.707/'>PDF</a>,
+<a href='https://github.com/ddhruvkr/Edit-Unsup-TS'>Code</a>,
 <a href='https://slideslive.com/38929280/iterative-editbased-unsupervised-sentence-simplification'>Pre-recorded talk</a>]
 "
 - year: "2020"
@@ -24,18 +27,18 @@ In First Workshop on NLP for Music and Audio (NLP4MusA) at ISMIR 2020.
 - year: "2020"
 
 - headline: "R. Agarwal* , <b>D. Kumar*</b>, L. Golab, S. Keshav, Consentio: Managing Consent to Data Access using Permissioned Blockchains, In IEEE International Conference on Blockchain and Cryptocurrency (ICBC) 2020 - Full Paper (22% acceptance rate).
-[<a href='https://arxiv.org/abs/1910.07110'>PDF</a>, 
+[<a href='https://arxiv.org/abs/1910.07110'>PDF</a>,
 <a href='https://github.com/ddhruvkr/Consentio'>Code</a>]"
 
 - display_year: "2019"
 - headline: "<b>D. Kumar</b>, R. Cohen, L. Golab, Online abuse detection: the value of preprocessing and neural attention models, Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA) at NAACL-HLT 2019.
-[<a href='https://www.aclweb.org/anthology/W19-1303/'>PDF</a>, 
+[<a href='https://www.aclweb.org/anthology/W19-1303/'>PDF</a>,
 <a href='https://github.com/ddhruvkr/Online_Abuse_Detection'>Code</a>]"
 - year: "2019"
 
 - display_year: "2016"
-- headline: "N. Kushwaha, S. Mehrotra, R. Kalia, <b>D. Kumar</b>, O. P. Vyas, Inclusion of Semantic and Time-Variant Information Using Matrix Factorization Approach for Implicit Rating of Last.Fm Dataset, Arabian Journal of Science and Engineering, 2016.  
-[<a href='https://link.springer.com/article/10.1007/s13369-016-2209-0'>PDF</a>, 
+- headline: "N. Kushwaha, S. Mehrotra, R. Kalia, <b>D. Kumar</b>, O. P. Vyas, Inclusion of Semantic and Time-Variant Information Using Matrix Factorization Approach for Implicit Rating of Last.Fm Dataset, Arabian Journal of Science and Engineering, 2016.
+[<a href='https://link.springer.com/article/10.1007/s13369-016-2209-0'>PDF</a>,
 <a href='https://github.com/ddhruvkr/JointMatrixFactorization'>Code</a>]"
 - year: "2016"
 
