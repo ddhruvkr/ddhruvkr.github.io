@@ -1,5 +1,10 @@
 - display_year: "2021"
-- headline: "P. Xu, <b>D. Kumar</b>, W. Yang, W. Zi, K. Tang, C. Huang, J.C.K. Cheung, S.J.D. Prince, Y. Cao, Optimizing Deeper Transformers on Small Datasets, Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021) - Long Paper"
+- headline: "O. Vechtomova, G. Sahu, <b>D. Kumar</b>, LyricJam: A system for generating lyrics for live instrumental music, International Conference on Computational Creativity (ICCC), 2021 - Full Paper
+[<a href='https://arxiv.org/pdf/2106.01960.pdf'>PDF</a>]"
+- year: "2021"
+
+- headline: "P. Xu, <b>D. Kumar</b>, W. Yang, W. Zi, K. Tang, C. Huang, J.C.K. Cheung, S.J.D. Prince, Y. Cao, Optimizing Deeper Transformers on Small Datasets, Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021) - Long Paper
+[<a href='https://arxiv.org/pdf/2012.15355v4.pdf'>PDF</a>]"
 - year: "2021"
 
 - headline: "S. Gehrmann et al., The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics, ArXiv 2021.
