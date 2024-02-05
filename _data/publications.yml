@@ -1,3 +1,28 @@
+- display_year: "2022"
+- headline: "M Dehghan, <b>D Kumar</b>, L Golab, GRS: Combining Generation and Revision in Unsupervised Sentence Simplification, ACL Findings 2022
+[<a href='https://arxiv.org/pdf/2203.09742.pdf'>PDF</a>,
+<a href='https://github.com/imohammad12/GRS'>Code</a>]"
+- year: "2022"
+
+- headline: "W Du, V Raheja, <b>D Kumar</b>, ZM Kim, M Lopez, D Kang, Understanding Iterative Revision from Human-Written Text, ACL 2022
+[<a href='https://arxiv.org/pdf/2203.03802.pdf'>PDF</a>,
+<a href='https://github.com/vipulraheja/iterater'>Code</a>,
+<a href='https://www.grammarly.com/blog/engineering/introducing-iterater/'>Blog</a>]"
+- year: "2022"
+
+- headline: "W Du, ZM Kim, V Raheja, <b>D Kumar</b>, D Kang, Read, Revise, Repeat: A System Demonstration for Human-in-the-loop Iterative Text Revision, In2Writing@ACL 2022
+[<a href='https://arxiv.org/pdf/2204.03685.pdf'>PDF</a>,
+<a href='https://github.com/vipulraheja/iterater'>Code</a>,
+<a href='https://www.youtube.com/watch?v=lK08tIpEoaE'>Video</a>,
+<font color="red"> Best Paper Award </font> ]"
+- year: "2022"
+
+- headline: "ZM Kim, W Du, V Raheja, <b>D Kumar</b>, D Kang, Improving iterative text revision by learning where to edit from other revision tasks, EMNLP 2022.
+[<a href='https://arxiv.org/pdf/2212.01350.pdf'>PDF</a>,
+<a href='https://github.com/vipulraheja/iterater'>Code</a>,
+<a href='https://www.grammarly.com/blog/engineering/learning-where-to-edit/'>Blog</a>]"
+- year: "2022"
+
 - display_year: "2021"
 - headline: "O. Vechtomova, G. Sahu, <b>D. Kumar</b>, LyricJam: A system for generating lyrics for live instrumental music, International Conference on Computational Creativity (ICCC), 2021 - Full Paper
 [<a href='https://arxiv.org/pdf/2106.01960.pdf'>PDF</a>]"
