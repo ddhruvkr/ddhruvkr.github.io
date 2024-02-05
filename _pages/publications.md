@@ -10,7 +10,6 @@ permalink: /publications.html
 {% for pub in publications %}
 <h1>{{ pub.display_year }}</h1>
 <em>{{ pub.headline }}</em>
-<em>{{ pub.name }}</em>
 {% endfor %}
 
 <p>* represents equal contribution</p>
