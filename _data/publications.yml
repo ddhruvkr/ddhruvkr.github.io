@@ -14,7 +14,7 @@
 <a href='https://github.com/vipulraheja/coedit'>Code</a>,
 <a href='https://www.grammarly.com/blog/engineering/coedit-text-editing/'>Blog</a>,
 <a href='https://huggingface.co/collections/grammarly/coedit-653a08b9a693d907fadaffb9'>Models</a>,
-<a href='https://huggingface.co/datasets/grammarly/coedit'>Data</a>"
+<a href='https://huggingface.co/datasets/grammarly/coedit'>Data</a>]"
 - year: "2023"
 
 - display_year: "2022"
@@ -32,7 +32,7 @@
 - headline: "W Du, ZM Kim, V Raheja, <b>D Kumar</b>, D Kang, Read, Revise, Repeat: A System Demonstration for Human-in-the-loop Iterative Text Revision, In2Writing@ACL 2022 - BEST PAPER AWARD  
 [<a href='https://arxiv.org/pdf/2204.03685.pdf'>PDF</a>,
 <a href='https://github.com/vipulraheja/iterater'>Code</a>,
-<a href='https://www.youtube.com/watch?v=lK08tIpEoaE'>Video</a>"
+<a href='https://www.youtube.com/watch?v=lK08tIpEoaE'>Video</a>]"
 - year: "2022"
 
 - headline: "ZM Kim, W Du, V Raheja, <b>D Kumar</b>, D Kang, Improving iterative text revision by learning where to edit from other revision tasks, EMNLP 2022.
