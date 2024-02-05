@@ -10,10 +10,11 @@
 <a href='https://www.grammarly.com/blog/engineering/introducing-iterater/'>Blog</a>]"
 - year: "2022"
 
-- headline: "W Du, ZM Kim, V Raheja, <b>D Kumar</b>, D Kang, Read, Revise, Repeat: A System Demonstration for Human-in-the-loop Iterative Text Revision, In2Writing@ACL 2022 <font color="red"> (Best Paper Award) </font> 
+- headline: "W Du, ZM Kim, V Raheja, <b>D Kumar</b>, D Kang, Read, Revise, Repeat: A System Demonstration for Human-in-the-loop Iterative Text Revision, In2Writing@ACL 2022 
 [<a href='https://arxiv.org/pdf/2204.03685.pdf'>PDF</a>,
 <a href='https://github.com/vipulraheja/iterater'>Code</a>,
-<a href='https://www.youtube.com/watch?v=lK08tIpEoaE'>Video</a>]"
+<a href='https://www.youtube.com/watch?v=lK08tIpEoaE'>Video</a>,
+<p style="color:Tomato;"> Best Paper Award </p>]"
 - year: "2022"
 
 - headline: "ZM Kim, W Du, V Raheja, <b>D Kumar</b>, D Kang, Improving iterative text revision by learning where to edit from other revision tasks, EMNLP 2022.
