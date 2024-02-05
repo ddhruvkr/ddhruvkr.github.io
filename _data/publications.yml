@@ -1,3 +1,22 @@
+- display_year: "2023"
+- headline: "J Li, V Raheja, D Kumar, ContraDoc: Understanding Self-Contradictions in Documents with Large Language Models, ArXiv 2023
+[<a href='https://arxiv.org/pdf/2311.09182.pdf'>PDF</a>,
+<a href='https://github.com/ddhruvkr/CONTRADOC'>Code</a>]"
+- year: "2023"
+
+- headline: "D Kumar, V Raheja, A Kaiser-Schatzlein, R Perry, A Joshi, J Hugues-Nuger, S Lou, N Chowdhury, Speakerly: A Voice-based Writing Assistant for Text Composition, EMNLP Industry Track 2023
+[<a href='https://arxiv.org/pdf/2310.16251.pdf'>PDF</a>,
+<a href='https://www.grammarly.com/blog/voice-composer/'>Blog</a>]"
+- year: "2023"
+
+- headline: "V Raheja, D Kumar, R Koo, D Kang, CoEdIT: Text Editing by Task-Specific Instruction Tuning, EMNLP Findings 2023  
+[<a href='https://arxiv.org/pdf/2305.09857.pdf'>PDF</a>,
+<a href='https://github.com/vipulraheja/coedit'>Code</a>,
+<a href='https://www.grammarly.com/blog/engineering/coedit-text-editing/'>Blog</a>,
+<a href='https://huggingface.co/collections/grammarly/coedit-653a08b9a693d907fadaffb9'>Models</a>"
+<a href='https://huggingface.co/datasets/grammarly/coedit'>Data</a>"
+- year: "2023"
+
 - display_year: "2022"
 - headline: "M Dehghan, <b>D Kumar</b>, L Golab, GRS: Combining Generation and Revision in Unsupervised Sentence Simplification, ACL Findings 2022
 [<a href='https://arxiv.org/pdf/2203.09742.pdf'>PDF</a>,
@@ -10,11 +29,10 @@
 <a href='https://www.grammarly.com/blog/engineering/introducing-iterater/'>Blog</a>]"
 - year: "2022"
 
-- headline: "W Du, ZM Kim, V Raheja, <b>D Kumar</b>, D Kang, Read, Revise, Repeat: A System Demonstration for Human-in-the-loop Iterative Text Revision, In2Writing@ACL 2022 
+- headline: "W Du, ZM Kim, V Raheja, <b>D Kumar</b>, D Kang, Read, Revise, Repeat: A System Demonstration for Human-in-the-loop Iterative Text Revision, In2Writing@ACL 2022 - BEST PAPER AWARD  
 [<a href='https://arxiv.org/pdf/2204.03685.pdf'>PDF</a>,
 <a href='https://github.com/vipulraheja/iterater'>Code</a>,
-<a href='https://www.youtube.com/watch?v=lK08tIpEoaE'>Video</a>,
-<p style="color:Tomato;"> Best Paper Award </p>]"
+<a href='https://www.youtube.com/watch?v=lK08tIpEoaE'>Video</a>"
 - year: "2022"
 
 - headline: "ZM Kim, W Du, V Raheja, <b>D Kumar</b>, D Kang, Improving iterative text revision by learning where to edit from other revision tasks, EMNLP 2022.
@@ -24,50 +42,51 @@
 - year: "2022"
 
 - display_year: "2021"
-- headline: "O. Vechtomova, G. Sahu, <b>D. Kumar</b>, LyricJam: A system for generating lyrics for live instrumental music, International Conference on Computational Creativity (ICCC), 2021 - Full Paper
-[<a href='https://arxiv.org/pdf/2106.01960.pdf'>PDF</a>]"
+- headline: "O Vechtomova, G Sahu, <b>D Kumar</b>, LyricJam: A system for generating lyrics for live instrumental music, ICCC 2021
+[<a href='https://arxiv.org/pdf/2106.01960.pdf'>PDF</a>,
+<a href='https://lyricjam.ai/'>Website</a>]"
 - year: "2021"
 
-- headline: "P. Xu, <b>D. Kumar</b>, W. Yang, W. Zi, K. Tang, C. Huang, J.C.K. Cheung, S.J.D. Prince, Y. Cao, Optimizing Deeper Transformers on Small Datasets, Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021) - Long Paper
+- headline: "P Xu, <b>D Kumar</b>, W Yang, W Zi, K Tang, C Huang, JCK Cheung, SJD Prince, Y Cao, Optimizing Deeper Transformers on Small Datasets, ACL-IJCNLP 2021
 [<a href='https://arxiv.org/pdf/2012.15355v4.pdf'>PDF</a>]"
 - year: "2021"
 
-- headline: "S. Gehrmann et al., The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics, ArXiv 2021.
+- headline: "S Gehrmann et al., The GEM Benchmark: Natural Language Generation, its Evaluation and Metrics, ArXiv 2021
 [<a href='https://arxiv.org/pdf/2102.01672.pdf'>PDF</a>,
 <a href='https://gem-benchmark.com/'>ACL 2021 Workshop Page</a>]"
 - year: "2021"
 
 - display_year: "2020"
-- headline: "O. Vechtomova, G. Sahu, <b>D. Kumar</b>, Generation of lyrics lines conditioned on music audio clips,
-In First Workshop on NLP for Music and Audio (NLP4MusA) at ISMIR 2020.
+- headline: "O Vechtomova, G Sahu, <b>D Kumar</b>, Generation of lyrics lines conditioned on music audio clips, NLP4MusA@ISMIR 2020.
 [<a href='https://www.aclweb.org/anthology/2020.nlp4musa-1.7.pdf'>PDF</a>,
+<a href='https://lyricjam.ai/'>Website</a>,
 <a href='https://sites.google.com/view/nlp4musa-submission/home'>Demos</a>,
 <a href='https://www.youtube.com/watch?v=7qV6lXaFY_g&feature=youtu.be'>Pre-recorded talk</a>]"
 - year: "2020"
 
-- headline: "<b>D. Kumar</b>, L. Mou, L. Golab, O. Vechtomova, Iterative edit-based unsupervised sentence simplification, In Proceedings of the 58th annual meeting of the Association for Computational Linguistics (ACL 2020), Long Paper (25.4% acceptance rate).
+- headline: "<b>D Kumar</b>, L Mou, L Golab, O Vechtomova, Iterative edit-based unsupervised sentence simplification, ACL 2020
 [<a href='https://www.aclweb.org/anthology/2020.acl-main.707/'>PDF</a>,
 <a href='https://github.com/ddhruvkr/Edit-Unsup-TS'>Code</a>,
 <a href='https://slideslive.com/38929280/iterative-editbased-unsupervised-sentence-simplification'>Pre-recorded talk</a>]
 "
 - year: "2020"
 
-- headline: "R. Cohen, R. Agarwal, <b>D. Kumar</b>, A. Parmentier, T. H. Leung, Sensitivity to risk profiles of users when developing AI systems, In 33rd Canadian Conference on Artificial Intelligence (Canadian AI 2020) - Full Paper.
+- headline: "R Cohen, R Agarwal, <b>D Kumar</b>, A Parmentier, TH Leung, Sensitivity to risk profiles of users when developing AI systems, Canadian AI 2020
 [<a href='https://link.springer.com/chapter/10.1007/978-3-030-47358-7_13'>PDF</a>]"
 - year: "2020"
 
-- headline: "R. Agarwal* , <b>D. Kumar*</b>, L. Golab, S. Keshav, Consentio: Managing Consent to Data Access using Permissioned Blockchains, In IEEE International Conference on Blockchain and Cryptocurrency (ICBC) 2020 - Full Paper (22% acceptance rate).
+- headline: "R Agarwal* , <b>D Kumar*</b>, L Golab, S Keshav, Consentio: Managing Consent to Data Access using Permissioned Blockchains, ICBC 2020
 [<a href='https://arxiv.org/abs/1910.07110'>PDF</a>,
 <a href='https://github.com/ddhruvkr/Consentio'>Code</a>]"
 
 - display_year: "2019"
-- headline: "<b>D. Kumar</b>, R. Cohen, L. Golab, Online abuse detection: the value of preprocessing and neural attention models, Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA) at NAACL-HLT 2019.
+- headline: "<b>D Kumar</b>, R Cohen, L Golab, Online abuse detection: the value of preprocessing and neural attention models, WASSA@NAACL-HLT 2019
 [<a href='https://www.aclweb.org/anthology/W19-1303/'>PDF</a>,
 <a href='https://github.com/ddhruvkr/Online_Abuse_Detection'>Code</a>]"
 - year: "2019"
 
 - display_year: "2016"
-- headline: "N. Kushwaha, S. Mehrotra, R. Kalia, <b>D. Kumar</b>, O. P. Vyas, Inclusion of Semantic and Time-Variant Information Using Matrix Factorization Approach for Implicit Rating of Last.Fm Dataset, Arabian Journal of Science and Engineering, 2016.
+- headline: "N Kushwaha, S Mehrotra, R Kalia, <b>D Kumar</b>, OP Vyas, Inclusion of Semantic and Time-Variant Information Using Matrix Factorization Approach for Implicit Rating of Last.Fm Dataset, Arabian Journal of Science and Engineering, 2016
 [<a href='https://link.springer.com/article/10.1007/s13369-016-2209-0'>PDF</a>,
 <a href='https://github.com/ddhruvkr/JointMatrixFactorization'>Code</a>]"
 - year: "2016"
