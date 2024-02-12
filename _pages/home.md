@@ -1,7 +1,6 @@
 ---
 title: "Dhruv Kumar"
 layout: homelay
-excerpt: "Dhruv Kumar"
 sitemap: false
 permalink: /
 ---
