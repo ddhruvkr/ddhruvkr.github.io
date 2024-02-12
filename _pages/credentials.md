@@ -1,7 +1,6 @@
 ---
 title: "Dhruv Kumar - Experience"
 layout: gridlay
-excerpt: "Dhruv Kumar: Experience"
 sitemap: false
 permalink: /credentials/
 ---
