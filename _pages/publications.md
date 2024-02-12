@@ -1,7 +1,6 @@
 ---
 title: "Home"
 layout: textlay
-excerpt: "Dhruv Kumar"
 sitemap: false
 permalink: /publications.html
 ---
