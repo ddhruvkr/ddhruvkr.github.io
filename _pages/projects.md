@@ -1,7 +1,6 @@
 ---
 title: "Dhruv Kumar - Projects"
 layout: gridlay
-excerpt: "Dhruv Kumar -- Projects."
 sitemap: false
 permalink: /projects/
 ---
